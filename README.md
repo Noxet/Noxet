@@ -13,9 +13,12 @@
 ![SV](https://img.shields.io/badge/SystemVerilog-%2368BC71?style=for-the-badge&logoColor=white)
 
 ## Tools
+![Neovim](https://img.shields.io/badge/neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![AD](https://img.shields.io/badge/Altium_Designer-%23A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![cmake](https://img.shields.io/badge/cmake-%23064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![zsh](https://img.shields.io/badge/zsh-%23F15A24?style=for-the-badge&logo=zsh&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 # 📊GitHub Stats :
