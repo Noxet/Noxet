@@ -9,6 +9,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![Asm](https://img.shields.io/badge/Assembly-%2300599C?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-%2368BC71?style=for-the-badge&logoColor=white)
+![SV](https://img.shields.io/badge/SystemVerilog-%2368BC71?style=for-the-badge&logoColor=white)
 
 ## Tools
 ![AD](https://img.shields.io/badge/Altium_Designer-%23A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
